@@ -4,8 +4,8 @@ export const COURSE = 'Modern Web Application Development';
 
 // ---- Per-role identity (kept separate on purpose: student, teacher and
 // admin each have their own name + photo, never shared with each other) ----
-export const SNAME = 'Ahmed Maqbool';
-export const PIC = 'https://res.cloudinary.com/saylani-welfare/image/upload/v1759869189/SMIT/Students/4220168729401.jpg';
+export const SNAME = 'Muhammad hasnain';
+export const PIC = '';
 
 export const TNAME = 'S Muzammil Javed';
 export const TPIC = ''; // paste a teacher photo URL here if you have one
@@ -14,11 +14,11 @@ export const ANAME = 'Muhammad Danish';
 export const APIC = ''; // paste an admin photo URL here if you have one
 
 // ---- Demo login credentials ----
-export const STUDENT_CNIC = '4203122915726';
+export const STUDENT_CNIC = '123456789';
 export const STUDENT_PASS_DEFAULT = '12345678';
-export const TEACHER_EMAIL = 'trainer@smit.com';
+export const TEACHER_EMAIL = 'abc@gmail.com';
 export const TEACHER_PASS = '12345678';
-export const ADMIN_EMAIL = 'admin@smit.com';
+export const ADMIN_EMAIL = 'abc@gmail.com';
 export const ADMIN_PASS = '12345678';
 
 // ---- Course progress modules ----
